@@ -5,8 +5,8 @@
     "targets": {
     "bensonn254-portfolio": {
       "hosting": {
-        "benawebv2": [
-          "benawebv2"
+        "benaweb": [
+          "benaweb"
         ]
       }
     }
