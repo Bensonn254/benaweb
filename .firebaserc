@@ -2,11 +2,11 @@
   "projects": {
     "default": "bensonn254-portfolio"
   },
-  "targets": {
+    "targets": {
     "bensonn254-portfolio": {
       "hosting": {
-        "benaweb": [
-          "benaweb"
+        "benawebv2": [
+          "benawebv2"
         ]
       }
     }

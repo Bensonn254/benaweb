@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "target": "benaweb",
+    "target": "benawebv2",
     "public": "dist",
     "ignore": [
       "firebase.json",
