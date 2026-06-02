@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "bensonn254-portfolio"
+  },
+  "targets": {
+    "bensonn254-portfolio": {
+      "hosting": {
+        "benaweb": [
+          "benaweb"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
